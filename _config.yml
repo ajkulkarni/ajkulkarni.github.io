@@ -1,0 +1,14 @@
+url: http://nakapika.github.io
+baseurl: ""
+
+# Site Settings
+title: Ajay Kulkarni
+description: "My online portfolio. Tired of paying hosting fees so moved to github pages."
+keywords: "Ajay, kulkarni, technology, computer science, arizona, state, university, asu, barclays, mumbai, university, vit, Machine Learning, Databases, jekyll, ebay"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
