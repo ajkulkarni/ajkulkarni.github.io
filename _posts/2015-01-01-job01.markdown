@@ -1,6 +1,6 @@
 ---
 layout: null
 title: May 2016 - August 2016
-subtitle: Software Engineering Intern @ <a href=\"http://ebay.com\" target=\"_blank\">eBay Inc.</a> San Jose, CA
+subtitle: Software Engineering Intern @ <a href="http://ebay.com" target="_blank">eBay Inc.</a> San Jose, CA
 image: "img/timeline/ebay.png"
 ---
