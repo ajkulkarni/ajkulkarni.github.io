@@ -1,6 +1,6 @@
 ---
 layout: null
 title: September 2009 - May 2013
-subtitle: B.E. Information Technology <a href=\"http://www.mu.ac.in\" target=\"_blank\">Mumbai University</a>
+subtitle: B.E. Information Technology <a href="http://www.mu.ac.in" target="_blank">Mumbai University</a>
 image: "img/timeline/mu.jpg"
 ---
