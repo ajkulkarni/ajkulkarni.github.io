@@ -1,6 +1,6 @@
 ---
 layout: null
-title: September 2009 - May 2013
-subtitle: B.E. Information Technology <a href=\"http://www.mu.ac.in\" target=\"_blank\">Mumbai University</a>
-image: "img/timeline/mu.jpg"
+title: August 2013 - July 2015
+subtitle: Software Engineer @ <a href=\"http://barclays.com\" target=\"_blank\">Barclays Investment Bank</a>
+image: "img/timeline/barclays.jpg"
 ---
