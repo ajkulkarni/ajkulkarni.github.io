@@ -1,6 +1,6 @@
 ---
 layout: null
-title: January 2016 - February 2016
-subtitle: [Future] Software Engineering Intern @ <a href=\"http://ebay.com\" target=\"_blank\">eBay Inc. [San Jose, CA]</a>
-image: "img/timeline/ebay.png"
+title: August 2015 - May 2017
+subtitle: M.S. Computer Science @ <a href=\"http://cidse.engineering.asu.edu\" target=\"_blank\">Arizona State University</a>, GPA 4.0
+image: "img/timeline/asu.png"
 ---
