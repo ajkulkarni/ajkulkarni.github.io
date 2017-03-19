@@ -1,6 +1,6 @@
 ---
 layout: null
 title: June 2017 - Present
-subtitle: Software Development Engineer @ <a href="https://quicksight.aws/" target="_blank">Amazon</a> Seattle, WA
+subtitle: Software Development Engineer @ <a href="https://quicksight.aws/" target="_blank">Amazon</a></br>Seattle, WA
 image: "img/timeline/amazon.png"
 ---
